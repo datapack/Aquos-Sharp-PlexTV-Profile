@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.1" encoding="utf-8"?>
 <Client name="Sharp Aquos">
   <Identification>
     <Header name="User-Agent" substring="SHARP-AQUOS" />
